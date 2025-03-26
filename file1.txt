@@ -1,1 +1,2 @@
 Hello, this is the original content.
+Changes from branch2.
